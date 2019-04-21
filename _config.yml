@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "John Daniel Norombaba"
+title                    : "john's corner"
 title_separator          : "-"
 name                     : &name "John Daniel Norombaba"
 description              : &description "just another person's website."
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "John Daniel Norombaba"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "United States"
+  bio              : "I'm trying to go beyond my best."
+  location         : # "United States"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"

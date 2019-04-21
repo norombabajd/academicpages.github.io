@@ -1,6 +1,7 @@
 ---
 permalink: /education/
 title: "Education"
+excerpt: "Who is John Daniel?"
 author_profile: true
 ---
 

@@ -1,22 +1,22 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "More about me, John Daniel, and who I am."
+excerpt: "Who is John Daniel?"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-I am John Daniel. I am currently a high school student on an engineering pathway, *but according to my pre-ACT results, I should probably have a plan B ready*.
+Hello, I'm John Daniel. A teenager getting through life. A lot of people say I'm funny, I just call that being awkward. I really enjoy technology, have a small thing for planes and traveling, and am very interested in a future in engineering. I wrestle through software and design architecture, and I continue to think about where my future may lead me.
 
 Introduction
 ======
-I can't say much about myself other than that I really enjoy being around people, and helping people out. I am devoted to my education, and to keeping a positive environment and *those good vibes*. There may be days where I am down, but seeing everyone around me happy keeps me going.
+I would consider myself as a hospitable person. If you invited me to a party, people might think I was the party host. I love being around people, and making sure that everyone is having a good time. In many situations, I want there to be fun, excitement, and anything but boring. I will always be devoted to positivity, and the beliefs of inclusion and equality. I try to be a perfectionist and minimalist, believe me, I do my best! Too many, the first impressions of me are definitely something. You'd think I'm crazy and weird. But I hope you can trust me when I say, I am definitely more.
 
 Education
 ======
-I am a high school student, currently in tenth grade...
+Currently in tenth grade, I am very much proud to be a Titan. As the Sophomore Class of 21's Class Vice President, I enjoy getting involved to make sure that the campus experience is nothing more than exceptional. I create [Quizlets](https://quizlet.com/johndaniel_) not only for myself, but to help other students out when it comes to subjects like vocabulary lists in English. School to me is not only academics, but a wonderful place to meet new people. I enjoy working with other students to help out with rallies, and other activities like orientation. I believe strongly that success in academics can only be reached through hard work, studying, and not cheating.
 
-More
-------
-Currently in development! Hang in there.
+My four year path in high school is focused on the PLTW or [Project Lead the Way](https://www.pltw.org/about-us) program at my school. I plan on taking four years of Spanish alongside the PLTW/STEM program.  My goals are to go through GATE/AP classes, while staying along the CP-Math classes. I very much enjoy writing, and analyzing content. Interpreting art, finding the deeper meanings, is something that interests me in school.
+
+I am apart of Engineering Club and S.K.I.L.L. (Society of Knowledge and Iteration of a Love for Learning) Club. Along with the four years of language, I participate in MeChA and Spanish Honors Society. I have joined the JV Tennis Team for the 2018-2019 school year, and overall have continued to only contribute and participate in my school.

@@ -6,8 +6,5 @@ main:
   - title: "Apple Music"
     url: "https://itunes.apple.com/profile/johnnotdaniel"
 
-  - title: "Education"
-    url: /education/
-
   - title: "Privacy"
     url: /terms/

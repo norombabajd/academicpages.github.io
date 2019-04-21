@@ -1,10 +1,7 @@
 # main links links
 main:
   - title: "Tumblr"
-    url: "blog.norombabajd.com"
+    url: "https://blog.norombabajd.com"
 
   - title: "Apple Music"
     url: "https://itunes.apple.com/profile/johnnotdaniel"
-
-  - title: "Privacy"
-    url: /terms/

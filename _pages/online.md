@@ -4,8 +4,6 @@ title: "Online"
 author_profile: true
 redirect_from:
   - /online/
-  - /online.html
-  - /online.md
 ---
 
 More

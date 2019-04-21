@@ -8,3 +8,6 @@ main:
 
   - title: "Education"
     url: /education/
+
+  - title: "Privacy"
+    url: /terms/

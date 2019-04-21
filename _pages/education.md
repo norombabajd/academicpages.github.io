@@ -1,6 +1,6 @@
 ---
-permalink: /online/
-title: "Online"
+permalink: /education/
+title: "Education"
 author_profile: true
 ---
 

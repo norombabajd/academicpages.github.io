@@ -7,6 +7,10 @@ modified: 2016-06-06
 {% include base_path %}
 {% include toc %}
 
+## Disclaimer
+
+This site is a work in progress. The original privacy policy from the original theme "Minimal Mistakes" is provided for the meantime. Personally reading through this privacy policy, I agree that your privacy is very important. As of April 21, 2019, Google Analytics is not setup on this website. I also do not have access to "Log Files" or any information that will link to you, the visitor. Clicking any links on the site that brings you away from "norombabajd.com" will redirect you to a different website, and you will be subject to their Privacy Policy. "blog.norombabajd.com" is not operated by GitHub or myself, but Tumblr.
+
 ## Privacy Policy
 
 The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.

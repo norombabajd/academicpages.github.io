@@ -1,10 +1,10 @@
 # main links links
 main:
+  - title: "Tumblr"
+    url: "blog.norombabajd.com"
+
+  - title: "Apple Music"
+    url: "https://itunes.apple.com/profile/johnnotdaniel"
+
   - title: "Education"
     url: /education/
-
-  - title: "Online"
-    url: /online/
-
-  - title: "Guide"
-    url: /markdown/

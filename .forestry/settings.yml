@@ -6,7 +6,12 @@ webhook_url:
 sections:
 - type: document
   path: _pages/about.md
-  label: Homepage
+  label: Home / About Me
+- type: directory
+  path: _pages
+  label: Other Pages
+  create: all
+  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''

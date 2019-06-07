@@ -8,16 +8,16 @@ redirect_from:
 - "/about.html"
 
 ---
-Hello, I am John Daniel. A Filipino-American student getting through life. A lot of people who know me consider me funny, but in my opinion, that's just me being awkward. Growing up with technology has given me so much love and joy in it. I'd like to think I can be an engineer one day, and very much so hope for a good future.
+To be clear, yes, my first name is John Daniel. Your first instinct may be to call me Daniel, but please call me John. I enjoy working with people, and I would do almost anything for my friends, and I think everyone deserves to have a great time. A lot of people call me funny, but I see it as just awkward. However or whenever we’d meet, your first impressions might be a little off, but I wanted to let you know that behind this crazy is someone more capable at what he does.
 
-# Introduction
+# **Technology**
 
-I would consider myself as a hospitable person. If you invited me to a party, people might think I was the party host. I love being around people, and making sure that everyone is having a good time. In many situations, I want there to be fun, excitement, and anything but boring. I will always be devoted to positivity, and the beliefs of inclusion and equality. I try to be a perfectionist and minimalist, believe me, I do my best! Too many, the first impressions of me are definitely something. You'd think I'm crazy and weird. But I hope you can trust me when I say, I am definitely more.
+What stands out to many is my interests in technology. I’m no IT specialist, but knowing how to restart a router puts me at the top of everyone’s tech support list. I try to go the extra mile to be informed about how my iPhone works, but compared to the entire industry, I’m just a novice. What made technology stand out to me as a kid was seeing how much it was able to do. Growing up with it, it’s amazing to see how thin and large phones have become since then.
 
-# Education
+# **Education**
 
-Currently in eleventh grade, I am very much proud to be a Titan. I love showing my spirit, and as the ASB Rally Commissioner, I also love spreading it. Also a Link Crew Leader, I very much want to make sure freshman transition into high school as smoothly, and as fun as I can make it. I really do enjoy getting involved to make sure that the campus experience is nothing more than exceptional. I create [Quizlets](https://quizlet.com/johndaniel_) not only for myself, but to help other students out when it comes to subjects like our vocabulary lists in English. School to me is not only academics, but a wonderful place to meet new people. I enjoy working with other students to help out with rallies, and other activities like orientation. I believe strongly that success in academics can only be reached through hard work, studying, and effort.
+I am now a junior in high school. Through all the changes and adapting to Common Core, seeing whiteboards turn digital, and old school projectors become a thing of the past, one thing doesn’t change. I love my school, and I love learning. I enjoy the challenge, and through studying and effort, I believe that I am capable of changing the world, with my many peers and colleagues with me.
 
-My four year path in high school is focused on the PLTW or [Project Lead the Way](https://www.pltw.org/about-us) program at my school. I plan on taking four years of Spanish alongside the PLTW/STEM program. I very much enjoy writing, and analyzing content. Interpreting art, finding the deeper meanings, is something that interests me in school.
+# **Leadership**
 
-I am apart of Engineering Club and S.K.I.L.L. (Society of Knowledge and Iteration of a Love for Learning) Club. Along with the four years of language, I participate in MeChA and Spanish Honors Society. I have joined the JV Tennis Team for the 2018-2019 school year, and overall have continued to only contribute and participate in my school.
+I’ll be honest and say that I never considered myself a leader, and yet being the disorientated one in the bleachers, and being apart of the group that only complains, it only felt right that there had to be something done. The only reason I ever considered myself as the best for people was because it was them who believed in me. As the ASB Rally Commissioner, of course I will continue to not only show but share the spirit and energy we all have through unity as a family. And as a member of Link Crew, I want to keep being raw and real. Freshman year is tough, it was for me, and no battle for those freshmen should ever make them feel alone. Leadership has added a new depth to my view on school, as it should never feel like only a place of learning, but a place to grasp new ideas, and to grow skills needed in our lives after.

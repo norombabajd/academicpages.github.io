@@ -1,7 +1,7 @@
 ### website
 Copyright (C) 2019 John Daniel, https://norombabajd.com
 
-**john's corner** is my landing page; an extended biography.  
+**John Daniel Norombaba** is my landing page; an extended biography.  
 
 ### theme
 

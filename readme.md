@@ -1,5 +1,5 @@
 ### website
-Copyright (C) 2019 John Daniel, https://norombabajd.com
+Copyright (C) 2020 John Daniel, https://norombabajd.com
 
 **norombabajd.com** is my landing page; an extended biography.  
 

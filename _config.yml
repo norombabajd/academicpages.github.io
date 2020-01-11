@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "@norombabajd"
+title                    : "John Daniel Norombaba"
 title_separator          : "-"
 name                     : &name "John Daniel Norombaba"
 description              : &description "just another person's website."
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "John Daniel Norombaba"
-  avatar           : "https://secure.gravatar.com/avatar/2cf01a403042565c17aa35ca6f0e246c"
-  bio              : "There's more behind the crazy."
+  avatar           : "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/s320x320/79588043_449319865747761_9066541035458396160_n.jpg?_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_ohc=CyiqA6VpEusAX-e-pjz&oh=82d87baf0a8a4b0262364a6c3d09a5e2&oe=5EA68C05"
+  bio              : "just another person on the internet."
   location         : # "United States"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "contact@norombabajd.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

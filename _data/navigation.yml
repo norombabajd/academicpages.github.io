@@ -1,4 +1,8 @@
 # main links links
 main:
-  - title: "read"
+  - title: "Profile"
+    url: "http://norombabajd.github.io/profile"
+  - title: "e-Journal"
     url: "http://norombabajd.github.io/blog"
+  - title: "Quizlets"
+    url: "http://quizlet.com/johndaniel-khsd"

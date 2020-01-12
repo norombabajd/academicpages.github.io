@@ -8,7 +8,6 @@ redirect_from:
   - /cv
 ---
 
-======
 This is a brief overview of my academic and leadership roles held.  
 
 Education

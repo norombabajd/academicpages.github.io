@@ -8,7 +8,6 @@ redirect_from:
   - /cv
 ---
 
-Profile
 ======
 This is a brief overview of my academic and leadership roles held.  
 
@@ -53,6 +52,6 @@ Electives
       * Frontier High School
 
 Athletics
-    ======
+======
     * Spring 2019: Tennis
       * Frontier High School

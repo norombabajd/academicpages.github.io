@@ -31,7 +31,7 @@ Community Service and Club Membership @ Frontier High School
   * **Fall 2019 to Spring 2020**: [Interact Club](https://www.rotary.org/en/get-involved/interact-clubs) @ Frontier High School
       * **Community Service including:** Assisting with the Salvation Army during the holiday season, creating a welcoming and motivating environment during finals week, etc.
 
-    * **Fall 2019 to Spring 2020**: [Spanish Honors Society](https://www.aatsp.org/page/SHHoverview) @ Frontier High School
+  * **Fall 2019 to Spring 2020**: [Spanish Honors Society](https://www.aatsp.org/page/SHHoverview) @ Frontier High School
       * **Community Service including:** Thanking veterans for their service, assisting with freshman activities, participating and assisting with district events and workshops, etc.
 
 Electives @ Frontier High School

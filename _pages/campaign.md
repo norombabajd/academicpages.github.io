@@ -11,10 +11,8 @@ redirect_from:
 
 Hello, I'm preparing to run for another term as ASB Rally Commissioner. Nothing to see here, only until it becomes the front page.
 
-# Watch the Announcement
-
-<blockquote class="twitter-tweet" data-dnt="true" data-theme="light"><p lang="en" dir="ltr">hi, i’m running for rally commissioner <a href="https://t.co/rtGXdXvj67">pic.twitter.com/rtGXdXvj67</a></p>&mdash; John Daniel (@norombabajd) <a href="https://twitter.com/norombabajd/status/1125576807380439040?ref_src=twsrc%5Etfw">May 7, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+&nbsp;
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YMH8x-bRU00?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
 
 # Profile

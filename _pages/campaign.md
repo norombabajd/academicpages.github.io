@@ -1,8 +1,7 @@
 ---
-permalink: "/"
+permalink: "/campaign/"
 author_profile: true
 redirect_from:
-- "/campaign/"
 - "/rallies/"
 - "/asb/"
 

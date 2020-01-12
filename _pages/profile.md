@@ -40,6 +40,6 @@ Electives
   * **Fall 2017 to Spring 2021**: [The Project Lead the Way Program](http://pltw.org/)
   * **Fall 2019 to Spring 2020** : Leadership/ASB
 
-Athletics @ Frontier High School
+Athletics
 ======
-  * **Spring 2019**: Tennis
+  * **Spring 2019**: JV Tennis @ Frontier High School

@@ -7,7 +7,13 @@ redirect_from:
 
 ---
 &nbsp;
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YMH8x-bRU00?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vh1UKAq_6XY?" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 &nbsp;
 
-Hello, I'm John Daniel Norombaba. I am a student who wants to make the high-school experience fun, while we all try to manage academics at the same time. I strongly believe and commit to being a leader and serving others before myself. To me, being a leader includes holding values like honesty, responsibility, integrity, and accountability. My journey is only getting started, so I welcome you to follow along by going to my e-jorunal, studying a Quizlet, or using the follow button to find me on social media.
+**DO YOUR PART. STAY AT HOME. PRACTICE SOCIAL DISTANCING**
+
+**FOR MORE INFORMATION VISIT [CORONAVIRUS.GOV](https://coronavirus.gov/)**
+
+**To follow my life during this time of epidemic, visit [blog.norombabajd.com](https://blog.norombabajd.com/)**
+
+Hello, I am John Daniel Norombaba. In this time of epidemic, I am doing my part by turning my front page into a COVID-2019 advisory. I recommend using Apple's [tool](https://apple.com/covid19) if you are looking into screening due to their commitment to your privacy, and collaboration with the CDC, FEMA, and the WH. Even if you consider yourself not at risk for COVID-2019, I ask that you be considerate of those at risk, those battling this sickness, and those plagued with the idea that their loved ones may not make it, and the essential-workers who put themselves at risk.

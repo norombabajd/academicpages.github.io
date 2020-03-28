@@ -11,9 +11,8 @@ redirect_from:
 &nbsp;
 
 **DO YOUR PART. STAY AT HOME. PRACTICE SOCIAL DISTANCING**
-
 **FOR MORE INFORMATION VISIT [CORONAVIRUS.GOV](https://coronavirus.gov/)**
 
-**To follow my life during this time of epidemic, visit [blog.norombabajd.com](https://blog.norombabajd.com/)**
-
 Hello, I am John Daniel Norombaba. In this time of epidemic, I am doing my part by turning my front page into a COVID-2019 advisory. I recommend using Apple's [tool](https://apple.com/covid19) if you are looking into screening due to their commitment to your privacy, and collaboration with the CDC, FEMA, and the WH. Even if you consider yourself not at risk for COVID-2019, I ask that you be considerate of those at risk, those battling this sickness, and those plagued with the idea that their loved ones may not make it, and the essential-workers who put themselves at risk.
+
+**To follow my life during this time of epidemic, visit [blog.norombabajd.com](https://blog.norombabajd.com/)**

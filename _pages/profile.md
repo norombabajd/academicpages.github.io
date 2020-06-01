@@ -20,7 +20,7 @@ Experience
   * **Fall 2018 to Spring 2019**: Class Vice President @ Frontier High School
     * **Duties included:** Fulfilled duties of the President when unavailable (i.e. homecoming), created and managed the [@frontierclassof21](https://instagram.com/frontierclassof21) Instagram account, and relayed information through Remind messages.
 
-  * **Fall 2019 to Spring 2020**: Commissioner of Rallies @ Frontier High School
+  * **Fall 2019 to Spring 2021**: Commissioner of Rallies @ Frontier High School
     * **Duties included:** Organizing a budget, Creating and organizing games and events, and announcing and recognizing academic and athletic achievement at rallies.
 
   * **Fall 2019 to Spring 2020**: Link Crew Leader @ Frontier High School
@@ -38,7 +38,7 @@ Electives
 ======
   * **Fall 2017 to Spring 2021**: Spanish 1 and 2 (completed), Spanish 3 Honors (in progress), Spanish 4AP (expected)
   * **Fall 2017 to Spring 2021**: [The Project Lead the Way Program](http://pltw.org/)
-  * **Fall 2019 to Spring 2020** : Leadership/ASB
+  * **Fall 2019 to Spring 2021** : Leadership/ASB
 
 Athletics
 ======

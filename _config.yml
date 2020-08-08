@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "John Daniel Norombaba"
 title_separator          : "-"
-name                     : &name "John Daniel Norombaba"
+name                     : &name "John Daniel"
 description              : &description "The small space for a growing boy."
 url                      : https://norombabajd.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "John Daniel Norombaba"
   avatar           : "https://raw.githubusercontent.com/norombabajd/website/master/images/john-daniel.jpeg"
-  bio              : # ""
+  bio              : "A growing boy."
   location         : # "United States"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

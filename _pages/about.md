@@ -16,7 +16,7 @@ Leadership Objectives:
 3. To streamline the rally planning process through comprehensive organization and planning.
 4. To uphold values like honesty, responsibility, integrity, and accountability.
 
-<button class="btn"><a href="https://norombabajd.com/profile" style="margin:8px; color:white; text-decoration: none">Read more about me.</a></button>
+<button class="btn"><a href="https://norombabajd.com/profile" style="margin:8px; color:white; text-decoration: none">Read more about me</a></button>
 
 #COVID-19
 ======
@@ -26,10 +26,10 @@ As states and counties ease restrictions, and COVID cases continue to grow in th
 ======
 Racial injustice continues to be a pressing issue in the United States, evident in the founding of this country. Use your privileges to stand up for the human rights of the black community. Make your voices heard, register to vote, and do what you can to help.
 
-<button class="btn"><a href="https://blacklivesmatters.carrd.co" style="margin:8px; color:white; text-decoration: none">Learn More about BLM.</a></button>
+<button class="btn"><a href="https://blacklivesmatters.carrd.co" style="margin:8px; color:white; text-decoration: none">Learn More about BLM</a></button>
 
 #PrayForLebanon
 ======
 Lebanon already is facing an [enormous crisis](https://www.instagram.com/p/CDfrFlqhQVf/), and now has to deal with the aftermath of the horrifying explosion in Beirut. Do what you can to help and to elevate the voices of change.
 
-<button class="btn"><a href="https://www.supportlrc.app" style="margin:8px; color:white; text-decoration: none">Donate to the Lebanese Red Cross.</a></button>
+<button class="btn"><a href="https://www.supportlrc.app" style="margin:8px; color:white; text-decoration: none">Donate to the Lebanese Red Cross</a></button>

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "John Daniel Norombaba"
 title_separator          : "-"
 name                     : &name "John Daniel Norombaba"
-description              : &description "currently washing his hands."
+description              : &description "The small space for a growing boy."
 url                      : https://norombabajd.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "norombabajd/website"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "John Daniel Norombaba"
-  avatar           : "https://scontent-lax3-1.cdninstagram.com/v/t51.2885-19/s320x320/93636646_2210349085777860_8809651808759709696_n.jpg?_nc_ht=scontent-lax3-1.cdninstagram.com&_nc_ohc=9Wvf_qpyi4sAX9jJeBt&oh=e37e78a364d76b33e30827fceabfab9a&oe=5EE161A4"
-  bio              : "just another person on the internet."
+  avatar           : "https://raw.githubusercontent.com/norombabajd/website/master/images/john-daniel.jpeg"
+  bio              : # ""
   location         : # "United States"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "academicpages"
+  github           : # "norombabajd"
   google_plus      :
   keybase          :
   instagram        : "norombabajd"
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : #
   lastfm           :
   linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : #
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

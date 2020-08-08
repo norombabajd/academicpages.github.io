@@ -36,7 +36,7 @@ Community Service and Club Membership
 
 Electives
 ======
-  * **Fall 2017 to Spring 2021**: Spanish 1 and 2 (completed), Spanish 3 Honors (in progress), Spanish 4AP (expected)
+  * **Fall 2017 to Spring 2021**: Spanish 1 and 2 (completed), Spanish 3 Honors, Spanish 4AP (in progress)
   * **Fall 2017 to Spring 2021**: [The Project Lead the Way Program](http://pltw.org/)
   * **Fall 2019 to Spring 2021** : Leadership/ASB
 

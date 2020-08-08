@@ -7,8 +7,6 @@ redirect_from:
 
 ---
 
-Welcome!
-======
 I'm John Daniel, a student leader doing his best to create an awesome high school experience, while growing and learning more about the issues we currently face. As an ASB Rally Commissioner, I organize a budget, create and schedule games and events, and announce and recognize academic and athletic achievement at rallies. However, my strive to help goes beyond my position, as I also deliver help with technology, videography, and other campus related activities.
 
 Leadership Objectives:
